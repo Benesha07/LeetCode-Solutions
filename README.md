@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 2
-- **Easy:** 0 🟢
+- **Total Problems Solved:** 3
+- **Easy:** 1 🟢
 - **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2168425426/) | 🟢 Easy | python3 | 2026-10-10 |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | 🟡 Medium | python3 | 2026-10-09 |
 | [Unknown Problem](https://leetcode.com/problems/non-overlapping-intervals/submissions/2167486677/) | 🟡 Medium | python3 | 2026-10-09 |
 
