@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 6
+- **Total Problems Solved:** 7
 - **Easy:** 3 🟢
-- **Medium:** 3 🟡
+- **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2168425426/) | 🟢 Easy | python3 | 2026-10-10 |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/2170051474/) | 🟢 Easy | python3 | 2026-10-12 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/2171403390/) | 🟡 Medium | python3 | 2026-10-13 |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/2172249636/) | 🟡 Medium | python3 | 2026-10-14 |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | 🟡 Medium | python3 | 2026-10-09 |
 | [Unknown Problem](https://leetcode.com/problems/non-overlapping-intervals/submissions/2167486677/) | 🟡 Medium | python3 | 2026-10-09 |
 
